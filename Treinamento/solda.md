@@ -33,6 +33,7 @@ Aprender a realizar solda de componentes e manipulação de circuitos.
 - Testar se a saída está em **5V** e não na tensão da bateria
 
 **4º Estágio**
+
 ![Circuito com LED e botão](circuito.png)
 ![Circuito com LED e botão](image.png)
 > +5 V → 270 Ω → ânodo do LED → cátodo → GND
